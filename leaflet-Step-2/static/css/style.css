@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+.legend {
+  padding: 6px 8px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(20, 187, 238);
+  background: rgb(25, 0, 253);
+  background: rgba(20, 0, 75, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend ul {
+  padding: 0;
+  margin: 0;
+  clear: both;
+  list-style-type: none;
+}
+
+.legend li {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 5%;
+  color: rgb(1, 5, 3);
+  width: 30px;
+  height: 22px;
+}
+
+.legend .min {
+  float: left;
+  padding-bottom: 5px;
+}
+
+.legend .max {
+  float: right;
+}
+
+h2 {
+  text-align: center;
+}
