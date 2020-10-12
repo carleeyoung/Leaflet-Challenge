@@ -1,6 +1,8 @@
 # Leaflet-Challenge
 [US Earthquake Map](https://carleeyoung.github.io/Leaflet-Challenge/leaflet-Step-1/)
+
 [World Earthquake Map](https://carleeyoung.github.io/Leaflet-Challenge/leaflet-Step-2/)
+
 Visuallizing Data with Leaflet
 
 Two maps were created using data from the USGS for earthquake magnitude and location over the past seven days.
